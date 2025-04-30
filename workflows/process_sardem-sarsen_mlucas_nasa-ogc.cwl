@@ -19,6 +19,7 @@ $graph:
       doc: STAC asset name
       label: asset name
       type: string?
+      default: PRODUCT
   outputs:
     out:
       type: Directory
